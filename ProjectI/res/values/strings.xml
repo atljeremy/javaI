@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ProjectI</string>
+    <string name="howToPlay">How To Play:
+        \n - Try to guess which Bike will be chosen at random!
+        \n - Simply type the number of one of the motorcycles below and tap on the "Get Bike!" button.
+        \n - The app will then randomly grab a motorcycle from the list, if it matches what you wrote in the text view, you
+        are a winner!
+        \n 1 - Ducati Monster
+        \n 2 - Honda CBR
+        \n 3 - Suzuki GXSR
+        \n 4 - Kawasaki Ninja
+        \n 5 - Harley-Davidson V-Rod
+    </string>
+    <string name="ducati">Ducati Monster</string>
+    <string name="honda">Honda CBR</string>
+    <string name="suzuki">Suzuki GXSR</string>
+    <string name="kawasaki">Kawasaki Ninja</string>
+    <string name="harleyDavidson">Harley-Davidson V-Rod</string>
+    <string name="emptyTextView">Nothing in text view</string>
+    <string name="youWin">YOU WIN!</string>
+    <string name="pleaseChooseBetween">Please choose between 1 and 5</string>
+    <string name="results">Results: \n</string>
+    <string name="youChose">You Chose: </string>
+    <string name="iChose">\n I Chose: </string>
+    <string name="tryAgain">Sorry, please try again!</string>
+    <string name="emptyString"/>
 </resources>
